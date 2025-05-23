@@ -9,7 +9,7 @@ Secret String : 637a257add3f6d5b1042db50ca2c898bd03465d5dae678d50def83800e2401ef
 
 Berikut adalah poin-poin yang telah berhasil dilakukan oleh praktikan:
 
-- [x]] Membuat SSH Key pada mesin lokal (komputer laboratorium).
+- [x] Membuat SSH Key pada mesin lokal (komputer laboratorium).
 - [x] Melakukan pembuatan dan konfigurasi _virtual machine_.
 - [x] Terhubung dengan _virtual machine_ menggunakan SSH.
 - [x] Melakukan _fork_ dan _clone_ _repository_.
